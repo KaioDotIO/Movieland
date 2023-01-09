@@ -9,7 +9,7 @@ Looking for a place where you can search for all your favorite movies? So, You s
 
 ## Initializing the project
 
-This project has created using Node version `16.17.0`.
+This project was created using Node version `16.17.0`.
 
 `Installing project dependencies`
 
