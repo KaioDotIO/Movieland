@@ -1,0 +1,24 @@
+.modal-body {
+  background-color: #212426 !important;
+}
+
+.modal-body h4,
+.modal-body p {
+  color: #f9d3b4;
+}
+
+.button-favorite {
+  opacity: 1 !important;
+  cursor: pointer;
+  color: #f9d3b4;
+  background: #1f2123 !important;
+  font-family: 'Roboto Slab', serif;
+  transition: 0.4s;
+  text-align: center;
+  border: 1px solid #f9d3b4 !important;
+}
+
+.button-favorite:hover {
+  transform: scale(1.05, 1.05);
+  color: #f9d3b4;
+}

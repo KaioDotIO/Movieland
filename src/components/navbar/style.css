@@ -1,0 +1,17 @@
+.navbar {
+  margin-top: 24px;
+}
+
+.navbar-item {
+  font-size: 1.25rem;
+  color: #f9d3b4;
+  text-decoration: none;
+  margin: 0px 12px;
+  transition: 0.2s;
+}
+
+.navbar-item:hover {
+  border-bottom: 1px solid #f9d3b4;
+  color: #f9d3b4;
+  padding-bottom: 2px;
+}
